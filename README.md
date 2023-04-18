@@ -1,3 +1,3 @@
-# Python-Basic
+Python-Basic
 Config files for my GitHub profile.
-Codes required to learn Data Science
+# Codes required to learn Data Science
